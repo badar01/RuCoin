@@ -1,1 +1,2 @@
-# RuCoin
+# 
+Coin global
